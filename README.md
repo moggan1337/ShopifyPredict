@@ -12,15 +12,7 @@
 
 ## About
 
-ShopifyPredict is an enterprise-grade demand forecasting system that uses machine learning to predict future product demand based on historical sales data. Built with Facebook Prophet and TensorFlow LSTM models, it provides accurate forecasts at the product, category, and multi-store level.
-
-**Key Benefits:**
-- 🎯 **94% forecast accuracy** — Industry-leading prediction accuracy
-- 📦 **40% less overstock** — Reduce carrying costs significantly
-- ⚡ **Real-time predictions** — Sub-second forecast queries
-- 🔮 **90-day horizons** — Plan ahead with confidence
-- 🌐 **Multi-store support** — Unified forecasting for franchises
-- 📊 **Auto-retraining** — Models improve over time automatically
+ShopifyPredict is an enterprise-grade demand forecasting system that uses machine learning to predict future product demand based on historical sales data. Built with Facebook Prophet and TensorFlow LSTM models, it provides accurate forecasts at the product, category, and multi-store level with up to 94% accuracy and 90-day planning horizons. Designed for Shopify merchants and inventory managers who want to reduce overstock costs and optimize stock levels.
 
 ## ✨ Features
 
